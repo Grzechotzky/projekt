@@ -1,4 +1,4 @@
 # projekt
 elo
-###### O mnie
+## O mnie
 pozdrawiam was
